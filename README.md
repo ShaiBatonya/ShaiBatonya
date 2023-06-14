@@ -4,7 +4,7 @@
 
 Tools And Technologies:
 <hr/>
-<img  src="https://gurzu.com/img/gurzu/mern-stack-01.png"  />
+<img  src="https://gurzu.com/img/gurzu/mern-stack-01.png"  max-width: "50%" max-height: "50%" />
 <hr/>
 <!---
 ShaiBatonya/ShaiBatonya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
