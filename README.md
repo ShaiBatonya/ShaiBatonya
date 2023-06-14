@@ -1,4 +1,4 @@
-<h1>About Me:</h1>
+<h2>About Me:</h2>
 
   <hr/>
   
@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning full stack development
 - 📫 How to reach me shaisvili09@gmail.com
 
-  <h1>Tools And Technologies:</h1>
+  <h2>Tools And Technologies:</h2>
 <hr/>
 <img  src="https://media.licdn.com/dms/image/C4E12AQE0Zs4FPMdGlw/article-cover_image-shrink_423_752/0/1625736527971?e=1692230400&v=beta&t=rP11a_eCsSf7kB9ICcWV6fsV96vrBAw8jl5C9vSkmJU"  max-width: "30px" max-height: "30px" />
 <hr/>
