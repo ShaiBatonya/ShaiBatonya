@@ -1,5 +1,7 @@
 <h1>About Me:</h1>
+
   <hr/>
+  
 - 👋 Hi, I’m Shai Batonya 
 - 🌱 I’m currently learning full stack development
 - 📫 How to reach me shaisvili09@gmail.com
