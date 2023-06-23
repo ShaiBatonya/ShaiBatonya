@@ -6,6 +6,8 @@ Knowledge in Multiple Web Stacks, understanding how to develop web applications,
 
 I am a self-learner who possesses a deep passion for the programming world.
 
+e-mail : shaisvili09@gmail.com
+
 <hr/>
   <h2>Tools And Technologies:</h2>
 Front end: JavaScript, React, Typescript, HTML5/CSS3, SQL.
