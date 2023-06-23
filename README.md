@@ -1,8 +1,10 @@
   <h2>About Me:</h2>
   
-- 👋 Hi, I’m Shai Batonya 
-- 🌱 I’m currently learning full stack development
-- 📫 How to reach me shaisvili09@gmail.com
+Full-Stack Web Developer Graduate.
+
+Knowledge in Multiple Web Stacks, understanding how to develop web applications, Penetration Testing in web And the architecture behind the application.
+
+I am a self-learner who possesses a deep passion for the programming world.
 
 <hr/>
   <h2>Tools And Technologies:</h2>
