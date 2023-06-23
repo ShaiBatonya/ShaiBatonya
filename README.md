@@ -6,6 +6,11 @@
 
 <hr/>
   <h2>Tools And Technologies:</h2>
+Front end: JavaScript, React, Typescript, HTML5/CSS3, SQL.
+Back end: Node.js.
+Development environments: Visual Studio Code.
+Databases: MySQL, MongoDB.
+Others: Bootstrap, Firebase GIT, Microsoft Office (Word, Excel, PP).
 
 <hr/>
 <!---
