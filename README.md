@@ -2,7 +2,7 @@
   
 Full-Stack Web Developer Graduate.
 
-Knowledge in Multiple Web Stacks, understanding how to develop web applications, Penetration Testing in web And the architecture behind the application.
+I have knowledge in Multiple Web Stacks, an understanding how to develop web applications, Penetration Testing in web And the architecture behind the application.
 
 I am a self-learner who possesses a deep passion for the programming world.
 
