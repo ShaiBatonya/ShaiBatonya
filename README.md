@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi 👋, I'm Shai batonya<br>Full-Stack Web Developer Graduate.<br>I have knowledge in Multiple Web Stacks, an understanding how to develop web applications, Penetration Testing in web And the architecture behind the application.<br>I am a self-learner who possesses a deep passion for the programming world.
+<h1>Hi 👋, I'm Shai batonya<br>Full-Stack Web Developer Graduate.<br>I have knowledge in Multiple Web Stacks, an understanding how to develop web applications, Penetration Testing in web And the architecture behind the application.<br>I am a self-learner who possesses a deep passion for the programming world.</h1>
 
 
 ## 🌐 Socials:
