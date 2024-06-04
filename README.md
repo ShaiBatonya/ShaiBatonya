@@ -21,7 +21,7 @@ I am strongly committed to delivering high-quality, scalable solutions while adh
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaibatonya-fullstack/)
 
