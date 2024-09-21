@@ -80,4 +80,13 @@ This project allows users to manage events effortlessly by providing an easy-to-
 </div>
 
 
+<style>
+  .animate__animated {
+    transition: transform 0.5s, opacity 0.5s;
+  }
 
+  .animate__animated:hover {
+    transform: scale(1.2);
+    opacity: 0.8;
+  }
+</style>
