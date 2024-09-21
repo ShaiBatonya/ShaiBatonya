@@ -10,7 +10,6 @@ Here are some of the technologies I use:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend:**
@@ -35,15 +34,15 @@ Here are some of the technologies I use:
 
 ## 🏆 **Featured Projects**
 
-### 1. [Real Estate Platform](https://github.com/ShaiBatonya/Real-Estate-MERN-STACK)  
-A comprehensive MERN-stack platform for real estate listings, featuring secure authentication, admin dashboard, and interactive UI.
+### 1. [EstateExplorer](https://github.com/ShaiBatonya/Real-Estate-MERN-STACK)  
+A comprehensive MERN-stack EstateExplorer platform for real estate listings, featuring secure authentication, admin dashboard, and interactive UI.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 ### 2. [Event Management App](https://github.com/ShaiBatonya/patents_server-client)  
-An event management system built with React, Node.js, and MongoDB, allowing users to create, edit, and manage events effortlessly.
+An event management system built with React, Node.js, and MongoDB, allows users to create, edit, and manage events effortlessly.
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
