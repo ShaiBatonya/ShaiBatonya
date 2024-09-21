@@ -8,7 +8,7 @@
 
 Hello! I'm **Shai**, an experienced **Full Stack Developer** with expertise in:
 
-- **Frontend:** React, TypeScript, Next.js, Vite, Vue.js, React Native, React Query, TailwindCSS, Chakra UI
+- **Frontend:** React, TypeScript, Next.js, Vite, React Native, React Query, TailwindCSS, Chakra UI
 - **Backend:** Node.js, Express, MongoDB, MySQL, Firebase
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD practices
 - **Others:** jQuery, JWT, NPM, Redux, React Hook Form, React Router, Web3.js, Postman, Jira, Adobe, Figma
