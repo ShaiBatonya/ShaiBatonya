@@ -43,21 +43,21 @@
 
 ## 🏆 **Featured Projects**
 
-### 1. [EstateExplorer](https://github.com/ShaiBatonya/Real-Estate-MERN-STACK)
-> A comprehensive MERN-stack platform for real estate listings, featuring secure authentication, an admin dashboard, and an interactive UI.  
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js" alt="Node.js" />
-</div>
+### 🏠 [EstateExplorer](https://github.com/ShaiBatonya/Real-Estate-MERN-STACK)
+**Tech Stack:** React, Node.js, Express, MongoDB  
+EstateExplorer is a comprehensive platform for trading and managing real estate properties. I developed the full stack infrastructure, focusing on secure authentication and a user-friendly real estate management interface. Users can create, edit, and view property listings while managing their assets in an interactive dashboard.
 
-### 2. [Event Management App](https://github.com/ShaiBatonya/patents_server-client)
-> An event management system built with React, Node.js, and MongoDB, allowing users to easily create, edit, and manage events.  
-<div align="center">
-  <img src="https://img.shields.io/badge/React-333333?style=flat&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB" />
-</div>
+- Implemented a dynamic search filter for quick access to properties.
+- Integrated **MongoDB** for data management and **Express** for secure and efficient backend communication.
+- Focused on performance optimization and security to ensure a smooth experience for all users.
+
+### 🛠 [Event Management App](https://github.com/ShaiBatonya/patents_server-client)
+**Tech Stack:** React, Node.js, MongoDB, Express  
+This project allows users to manage events effortlessly by providing an easy-to-use platform for event creation, editing, and deletion. The app includes a robust backend built with **Node.js** and **MongoDB**, supporting secure user authentication and event management workflows.
+
+- Designed an intuitive UI using **React** to enhance the user experience.
+- Built a RESTful API with **Express** for smooth client-server interactions.
+- Used **MongoDB** for storing and retrieving event data, ensuring scalability and reliability.
 
 ---
 
