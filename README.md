@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Shai Gabriel Batonya**
 
- **Full Stack Developer** | 
+ **Full Stack Developer** 
  
  **Building Educational Apps That Elevate Learning through Gamification.**  
  
