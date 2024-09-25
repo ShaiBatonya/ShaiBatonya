@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Shai Gabriel Batonya**
 
- **Full Stack Developer** | **Building Educational Apps That Elevate Learning through Gamification**  
-⚛️ React | 📘 TypeScript | 🟢 Node.js | 📊 MongoDB | ☁️ AWS
+ **Full Stack Developer** | **Building Educational Apps That Elevate Learning through Gamification.**  
+ **⚛️ React | 📘 TypeScript | 🟢 Node.js | 📊 MongoDB | ☁️ AWS** 
 
 # 🛠 **Tech Stack**
 
