@@ -46,6 +46,7 @@
 ## 🏆 **Featured Projects**
 
 ### 🏠 [EstateExplorer](https://github.com/ShaiBatonya/Real-Estate-MERN-STACK)
+
 **Tech Stack:** React, Node.js, Express, MongoDB  
 EstateExplorer is a comprehensive platform for trading and managing real estate properties. I developed the full stack infrastructure, focusing on secure authentication and a user-friendly real estate management interface. Users can create, edit, and view property listings while managing their assets in an interactive dashboard.
 
@@ -54,6 +55,7 @@ EstateExplorer is a comprehensive platform for trading and managing real estate 
 - Focused on performance optimization and security to ensure a smooth experience for all users.
 
 ### 🛠 [Event Management App](https://github.com/ShaiBatonya/patents_server-client)
+
 **Tech Stack:** React, Node.js, MongoDB, Express  
 This project allows users to manage events effortlessly by providing an easy-to-use platform for event creation, editing, and deletion. The app includes a robust backend built with **Node.js** and **MongoDB**, supporting secure user authentication and event management workflows.
 
