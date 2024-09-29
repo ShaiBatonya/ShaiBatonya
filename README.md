@@ -4,7 +4,7 @@
  
  **Building Educational Apps That Elevate Learning through Gamification.**  
  
- **⚛️ React | 📘 TypeScript | 🟢 Node.js | 📊 MongoDB | ☁️ AWS** 
+ ** ⚛️ React | 📘 TypeScript | 🟢 Node.js | 📊 MongoDB | ☁️ AWS ** 
 
 # 🛠 **Tech Stack**
 
