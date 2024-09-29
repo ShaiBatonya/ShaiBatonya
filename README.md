@@ -16,7 +16,7 @@
 </div>
 
 ### **Backend**
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" class="animate__animated animate__zoomIn" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" class="animate__animated animate__rotateIn" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" class="animate__animated animate__slideInRight" />
@@ -24,7 +24,7 @@
 </div>
 
 ### **Cloud & DevOps**
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" class="animate__animated animate__flash" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" class="animate__animated animate__zoomInUp" />
   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" class="animate__animated animate__wobble" />
@@ -32,7 +32,7 @@
 </div>
 
 ### **Others**
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" class="animate__animated animate__tada" />
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" class="animate__animated animate__flip" />
   <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" class="animate__animated animate__shakeX" />
