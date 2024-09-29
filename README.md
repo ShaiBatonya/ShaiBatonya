@@ -8,7 +8,7 @@
 # 🛠 **Tech Stack**
 
 ### **Frontend**
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 70px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" class="animate__animated animate__pulse" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" class="animate__animated animate__fadeIn" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" class="animate__animated animate__bounceIn" />
