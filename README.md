@@ -76,7 +76,6 @@ Always staying up-to-date with the latest trends in tech, and diving deep into f
 ## 📈 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaiBatonya&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaiBatonya&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
