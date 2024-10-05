@@ -1,9 +1,15 @@
 # 👋 Hi, I'm **Shai Gabriel Batonya**  
-**Full Stack Developer | Empowering Learning Through Code**  
+<p align="center">
+  **Full Stack Developer**
+</p>
 
- Building **Educational Apps** that elevate learning experiences through **Gamification**. Combining technology and creativity to develop solutions that inspire users to achieve more. Passionate about clean code, scalable architecture, and enhancing user experiences.
+<p align="center">
+  Building **Educational Apps** that elevate learning experiences through **Gamification**. Combining technology and creativity to develop solutions that inspire users to achieve more. Passionate about clean code, scalable architecture, and enhancing user experiences.
+</p>
 
-⚛️ **React** | 📘 **TypeScript** | 🟢 **Node.js** | 📊 **MongoDB** | ☁️ **AWS**
+<p align="center">
+  ⚛️ **React** | 📘 **TypeScript** | 🟢 **Node.js** | 📊 **MongoDB** | ☁️ **AWS**
+</p>
 
 ---
 
@@ -69,7 +75,7 @@ Simplifies the process of organizing events with a full CRUD platform.
 ---
 
 ## 🎯 **My Learning Journey**  
-Always staying up-to-date with the latest trends in tech, and diving deep into frameworks like **React**, **Node.js**, and cloud technologies. I’m also a firm believer in giving back to the community by sharing my knowledge through GitHub, Linkedin posts, and open-source contributions.
+Always staying up-to-date with the latest trends in tech, and diving deep into frameworks like **React**, **Node.js**, and cloud technologies. I also firmly believe in giving back to the community by sharing my knowledge through GitHub, LinkedIn posts, and open-source contributions.
 
 ---
 
@@ -77,7 +83,6 @@ Always staying up-to-date with the latest trends in tech, and diving deep into f
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShaiBatonya&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaiBatonya&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -96,3 +101,4 @@ Always staying up-to-date with the latest trends in tech, and diving deep into f
 
 ## 🎯 **Quote to Live By**  
 "Strive not to be a success, but rather to be of value." — **Albert Einstein**
+
