@@ -83,6 +83,7 @@ Always staying up-to-date with the latest trends in tech, and diving deep into f
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShaiBatonya&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+
 </p>
 
 ---
