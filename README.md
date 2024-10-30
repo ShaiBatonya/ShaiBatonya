@@ -47,7 +47,7 @@
 Coding for me is more than just writing lines of code. It's about **problem-solving** and building tools that **make a difference**. I thrive in projects that challenge my creativity and technical skills, and I am constantly learning new technologies to improve and innovate. My goal is to create **real-world impact** with every project I work on.
 
 ---
-
+ 
 ## 🏆 **Featured Projects**
 
 ### 🏠 [EstateExplorer](https://github.com/ShaiBatonya/Real-Estate-MERN-STACK)  
