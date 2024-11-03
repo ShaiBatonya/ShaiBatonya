@@ -81,7 +81,7 @@ Always staying up to date with the latest trends in tech, and diving deep into f
 
 ---
 
-## 🌐 **Let's Connect!**  
+## 🌐 **Let's Connect!**   
 <div align="left">
   <a href="https://www.linkedin.com/in/shaibatonya-fullstack/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
