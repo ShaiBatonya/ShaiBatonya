@@ -3,7 +3,7 @@
 
  Building **Educational Apps** that elevate learning experiences through **Gamification**. Combining technology and creativity to develop solutions that inspire users to achieve more. Passionate about clean code, scalable architecture, and enhancing user experiences. 
 
-⚛️ **React** | 📘 **TypeScript** | 🟢 **Node.js** | 📊 **MongoDB** | ☁️ **AWS**    
+⚛️ **React** | 📘 **TypeScript** | 🟢 **Node.js** | 📊 **MongoDB** | ☁️ **AWS**     
 
 ---   
 
