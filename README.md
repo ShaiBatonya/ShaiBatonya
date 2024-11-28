@@ -5,7 +5,7 @@
 
 ⚛️ **React** | 📘 **TypeScript** | 🟢 **Node.js** | 📊 **MongoDB** | ☁️ **AWS**       
    
----     
+--- 
 
 ## 🛠 **Tech Stack**
 
