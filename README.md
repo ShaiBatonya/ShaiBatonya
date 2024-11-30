@@ -72,7 +72,7 @@ Simplifies the process of organizing events with a full CRUD platform.
 Always staying up to date with the latest trends in tech, and diving deep into frameworks like **React**, **Node.js**, and cloud technologies. I also firmly believe in giving back to the community by sharing my knowledge through GitHub, LinkedIn posts, and open-source contributions.
 
 ---
-
+ 
 ## 📈 **GitHub Stats**
 
 <div align="center">
