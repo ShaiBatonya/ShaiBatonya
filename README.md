@@ -1,11 +1,12 @@
 # 👋 Hi, I'm **Shai Gabriel Batonya**  
-**Full Stack Developer**  
-    
- Building **Educational Apps** that elevate learning experiences through **Gamification**. Combining technology and creativity to develop solutions that inspire users to achieve more. Passionate about clean code, scalable architecture, and enhancing user experiences. 
+### **Full Stack Developer | Crafting Seamless Digital Experiences**  
 
-⚛️ **React** | 📘 **TypeScript** | 🟢 **Node.js** | 📊 **MongoDB** | ☁️ **AWS**       
-   
---- 
+Building **next-generation applications** that elevate user engagement through **scalable, intuitive designs** and **robust backends**.  
+Passionate about **clean code**, **scalable architecture**, and driving meaningful user experiences.
+
+⚛️ **React** | 📘 **TypeScript** | 🟢 **Node.js** | 📊 **MongoDB** | ☁️ **AWS**  
+
+---
 
 ## 🛠 **Tech Stack**
 
@@ -33,22 +34,17 @@
   <img src="https://img.shields.io/badge/CI/CD-%2320232a.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </div>
 
-### **Others**
-<div align="left">
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
-  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
-</div>
-
 ---
 
-## 🌟 **What Drives Me**  
-Coding for me is more than just writing lines of code. It's about **problem-solving** and building tools that **make a difference**. I thrive in projects that challenge my creativity and technical skills, and I am constantly learning new technologies to improve and innovate. My goal is to create **real-world impact** with every project I work on.
-
----
- 
 ## 🏆 **Featured Projects**
+
+### 🛍️ [Shopfinity](https://shopfinity-nine.vercel.app/)  
+A modern, responsive e-commerce platform designed to enhance user shopping experiences.
+
+**Tech Stack:** React, TailwindCSS, Redux, Node.js, Express  
+- 🎨 Clean and responsive design for seamless browsing.  
+- 🛒 Robust cart functionality with real-time updates.  
+- 🚀 Fast deployment with Vercel for global accessibility.  
 
 ### 🏠 [EstateExplorer](https://github.com/ShaiBatonya/Real-Estate-MERN-STACK)  
 An intuitive platform for managing and trading real estate properties.
@@ -68,11 +64,6 @@ Simplifies the process of organizing events with a full CRUD platform.
 
 ---
 
-## 🎯 **My Learning Journey**  
-Always staying up to date with the latest trends in tech, and diving deep into frameworks like **React**, **Node.js**, and cloud technologies. I also firmly believe in giving back to the community by sharing my knowledge through GitHub, LinkedIn posts, and open-source contributions.
-
----
- 
 ## 📈 **GitHub Stats**
 
 <div align="center">
@@ -81,7 +72,13 @@ Always staying up to date with the latest trends in tech, and diving deep into f
 
 ---
 
-## 🌐 **Let's Connect!**   
+## 🌟 **What Drives Me**  
+Coding for me is more than just writing lines of code. It's about **problem-solving** and building tools that **make a difference**.  
+I thrive on projects that challenge my creativity and technical skills. My goal is to create **real-world impact** with every project I work on.
+
+---
+
+## 🌐 **Let's Connect!**  
 <div align="left">
   <a href="https://www.linkedin.com/in/shaibatonya-fullstack/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -94,5 +91,5 @@ Always staying up to date with the latest trends in tech, and diving deep into f
 ---
 
 ## 🎯 **Quote to Live By**  
-"Strive not to be a success, but rather to be of value." — **Albert Einstein**
+*"Strive not to be a success, but rather to be of value."* — **Albert Einstein**
 
