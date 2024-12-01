@@ -41,7 +41,7 @@ Passionate about **clean code**, **scalable architecture**, and driving meaningf
 ### 🛍️ [Shopfinity](https://shopfinity-nine.vercel.app/)  
 A modern, responsive e-commerce platform designed to enhance user shopping experiences.
 
-**Tech Stack:** React, TailwindCSS, Redux, Node.js, Express  
+**Tech Stack:** React, TailwindCSS, Redux 
 - 🎨 Clean and responsive design for seamless browsing.  
 - 🛒 Robust cart functionality with real-time updates.  
 - 🚀 Fast deployment with Vercel for global accessibility.  
