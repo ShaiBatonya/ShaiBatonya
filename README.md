@@ -46,7 +46,7 @@ A modern, responsive e-commerce platform designed to enhance user shopping exper
 - 🛒 Robust cart functionality with real-time updates.  
 - 🚀 Fast deployment with Vercel for global accessibility.  
 
-### 🏠 [EstateExplorer](https://github.com/ShaiBatonya/Real-Estate-MERN-STACK)  
+### 🏠 [EstateExplorer](https://real-estate-mern-stack.vercel.app/)  
 An intuitive platform for managing and trading real estate properties.
 
 **Tech Stack:** React, Node.js, Express, MongoDB  
