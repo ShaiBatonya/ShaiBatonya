@@ -6,7 +6,7 @@ Passionate about **clean code**, **scalable architecture**, and driving meaningf
 
 ⚛️ **React** | 📘 **TypeScript** | 🟢 **Node.js** | 📊 **MongoDB** | ☁️ **AWS**    
 
---- 
+---   
 
 ## 🛠 **Tech Stack**
 
