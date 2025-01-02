@@ -8,7 +8,7 @@ Passionate about **clean code**, **scalable architecture**, and driving meaningf
 
 ---    
    
-## 🛠 **Tech Stack**
+## 🛠 **Tech Stack** 
 
 ### **Frontend**
 <div align="left">
