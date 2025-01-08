@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Shai Gabriel Batonya**  
-### **Full Stack Developer | Crafting Seamless Digital Experiences**  
+### **Full Stack Developer **  
 
 Building **next-generation applications** that elevate user engagement through **scalable, intuitive designs** and **robust backends**.  
 Passionate about **clean code**, **scalable architecture**, and driving meaningful user experiences. 
