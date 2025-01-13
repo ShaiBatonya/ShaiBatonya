@@ -70,7 +70,7 @@ Passionate about **clean code**, **scalable architecture**, and driving meaningf
 ---
 
 ### 🛠 [Event Management App](https://github.com/ShaiBatonya/patents_server-client)  
-**Description:** Simplifies the process of managing events with full CRUD capabilities.  
+**Description:** Simplifies managing events with full CRUD capabilities.  
 **Tech Stack:** React, Node.js, MongoDB  
 
 **Features:**  
@@ -89,7 +89,7 @@ Passionate about **clean code**, **scalable architecture**, and driving meaningf
 
 ## 🌟 **What Drives Me**  
 Coding for me is more than just writing lines of code. It's about **problem-solving** and building tools that **make a difference**.  
-I thrive on projects that challenge my creativity and technical skills. My goal is to create **real-world impact** with every project I work on.
+I thrive on projects that challenge my creativity and technical skills. My goal is to create a real-world impact with every project I work on.
 
 ---
 
