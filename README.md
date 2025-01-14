@@ -4,7 +4,7 @@
 
 Building **next-generation applications** that elevate user engagement through **scalable, intuitive designs** and **robust backends**.  
 Passionate about **clean code**, **scalable architecture**, and driving meaningful user experiences. 
-
+ 
 ⚛️ **React** | 📘 **TypeScript** | 🟢 **Node.js** | 📊 **MongoDB** | ☁️ **AWS**    
 
 ---    
