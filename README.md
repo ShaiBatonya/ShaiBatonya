@@ -2,7 +2,8 @@
 # 👋 Hi, I'm **Shai Gabriel Batonya**  
 ### Full Stack Developer 
 
-Building **next-generation applications** that elevate user engagement through **scalable, intuitive designs** and **robust backends**.  
+Full Stack Developer - Building Educational Apps That Enhance Learning Through Gamification
+
 Passionate about **clean code**, **scalable architecture**, and driving meaningful user experiences. 
  
 ⚛️ **React** | 📘 **TypeScript** | 🟢 **Node.js** | 📊 **MongoDB** | ☁️ **AWS**    
