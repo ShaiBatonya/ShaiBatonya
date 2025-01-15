@@ -24,14 +24,14 @@
 ### **Frontend Development**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,html,css,js,redux,materialui" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,html,css,js,redux,materialui,vite,figma" />
   </a>
 </p>
 
 ### **Backend Development**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,mysql,redis" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,mysql,redis,postman,npm" />
   </a>
 </p>
 
