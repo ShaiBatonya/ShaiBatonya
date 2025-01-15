@@ -97,8 +97,10 @@ I thrive on projects that challenge my creativity and technical skills. My goal 
 </div>
 
 ---
-<div align="center">
+
 ## 🎯 **Quote to Live By**  
+ <div align="center">
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
 
