@@ -40,15 +40,6 @@ Passionate about **clean code**, **scalable architecture**, and driving meaningf
 
 ## 🏆 **Featured Projects**
 
-### 🌍 [NextTravel](https://next-travel-olive.vercel.app/)  
-**Description:** A fully responsive travel platform for planning trips and exploring destinations.  
-**Tech Stack:** Next.js, TailwindCSS, TypeScript  
-
-**Features:**  
-- ✨ Dynamic Hero Section to captivate users upon entry.  
-- 📱 Optimized for all devices with responsive design.  
-- 🌍 Engaging visuals and interactive travel guides.  
-
 ---
 
 ### 🛍️ [Shopfinity](https://shopfinity-nine.vercel.app/)  
