@@ -3,37 +3,37 @@
 # 👋 Hi, I'm **Shai Gabriel Batonya**  
 ### Full Stack Developer  
 
-Building Educational Apps That Enhance Learning Through Gamification  
+Building Educational Apps That Enhance Learning Through Gamification.
 
-💡 Passionate about **clean code**, **scalable architecture**, and creating **meaningful user experiences**.
+Passionate about **clean code**, **scalable architecture**, and driving meaningful user experiences. 
 
 ---
 
-## 🛠 **Tech Stack**  
+## 🛠 **My Tech Stack**  
+<p align="center">
+"Mastering tools and technologies to create seamless, innovative user experiences."
+</p>
 
-### **Frontend**
-<div align="left">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-</div>
+### **Frontend Development**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,html,css,js,redux,materialui" />
+  </a>
+</p>
 
-### **Backend**
-<div align="left">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
+### **Backend Development**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,mysql,redis" />
+  </a>
+</p>
 
 ### **Cloud & DevOps**
-<div align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/CI/CD-%2320232a.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel,githubactions,git" />
+  </a>
+</p>
 
 ---
 
@@ -45,7 +45,7 @@ Building Educational Apps That Enhance Learning Through Gamification
 
 **Features:**  
 - 🛒 Real-time cart updates for an enhanced user experience.  
-- 🎨 Clean and attractive design for all devices.  
+- 🎨 Responsive design for all devices.  
 
 ---
 
@@ -69,6 +69,16 @@ Building Educational Apps That Enhance Learning Through Gamification
 
 ---
 
+## 🌟 **Quote to Live By**  
+
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Quote">
+  </a>
+</div>
+
+---
+
 ## 📈 **GitHub Stats**  
 
 <div align="center">
@@ -77,27 +87,18 @@ Building Educational Apps That Enhance Learning Through Gamification
 
 ---
 
-## 🎯 **What Drives Me**  
-Coding for me is more than just writing lines of code. It's about **problem-solving** and building tools that **make a difference**.  
-I thrive on projects that challenge my creativity and technical skills. My goal is to create a real-world impact with every project I work on.
-
----
-
 ## 🌐 **Let's Connect!**  
-<div align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/shaibatonya-fullstack/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ShaiBatonya">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
+</p>
 
 ---
-## 🌟 **Quote to Live By**  
 
-<div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Quote">
-  </a>
-</div>
+## 🎯 **What Drives Me**  
+Coding is more than just writing code; it's about solving real-world problems and creating tools that make a difference.  
+I thrive on challenging projects that push the limits of my creativity and technical skills.  
