@@ -1,17 +1,16 @@
 ![Header Image](https://camo.githubusercontent.com/3cbeb5d020370a717e4b859e2b9bab4c53d57b133164468958639d913703fa5c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d374139324238266865696768743d3130302673656374696f6e3d686561646572)
+
 # 👋 Hi, I'm **Shai Gabriel Batonya**  
-### Full Stack Developer 
+### Full Stack Developer  
 
-Full Stack Developer - Building Educational Apps That Enhance Learning Through Gamification
+Building Educational Apps That Enhance Learning Through Gamification  
 
-Passionate about **clean code**, **scalable architecture**, and driving meaningful user experiences. 
- 
-⚛️ **React** | 📘 **TypeScript** | 🟢 **Node.js** | 📊 **MongoDB** | ☁️ **AWS**    
+💡 Passionate about **clean code**, **scalable architecture**, and creating **meaningful user experiences**.
 
----    
-   
-## 🛠 **Tech Stack**   
-   
+---
+
+## 🛠 **Tech Stack**  
+
 ### **Frontend**
 <div align="left">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -38,9 +37,7 @@ Passionate about **clean code**, **scalable architecture**, and driving meaningf
 
 ---
 
-## 🏆 **Featured Projects**
-
----
+## 🏆 **Featured Projects**  
 
 ### 🛍️ [Shopfinity](https://shopfinity-nine.vercel.app/)  
 **Description:** A modern, scalable e-commerce platform for seamless shopping.  
@@ -72,7 +69,7 @@ Passionate about **clean code**, **scalable architecture**, and driving meaningf
 
 ---
 
-## 📈 **GitHub Stats**
+## 📈 **GitHub Stats**  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaiBatonya&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
@@ -80,7 +77,7 @@ Passionate about **clean code**, **scalable architecture**, and driving meaningf
 
 ---
 
-## 🌟 **What Drives Me**  
+## 🎯 **What Drives Me**  
 Coding for me is more than just writing lines of code. It's about **problem-solving** and building tools that **make a difference**.  
 I thrive on projects that challenge my creativity and technical skills. My goal is to create a real-world impact with every project I work on.
 
@@ -97,10 +94,10 @@ I thrive on projects that challenge my creativity and technical skills. My goal 
 </div>
 
 ---
+## 🌟 **Quote to Live By**  
 
-## 🎯 **Quote to Live By**  
- <div align="center">
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson)](https://github.com/piyushsuthar/github-readme-quotes)
-
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Quote">
+  </a>
 </div>
-
