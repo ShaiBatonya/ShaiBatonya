@@ -52,7 +52,7 @@ A **robust real estate management platform** enabling smooth property trading an
 - 📌 Created a **comprehensive property filtering system** for user-friendly navigation.  
 - 🏢 Built an **intuitive interface** focused on enhancing user engagement.  
 - 🔐 Integrated **secure user authentication** and admin functionalities.
-- 
+  
 ---
 
 ### 🛍️ [Shopfinity](https://shopfinity-nine.vercel.app/)  
