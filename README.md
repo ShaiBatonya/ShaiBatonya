@@ -44,17 +44,6 @@
 
 ## 🏆 **Featured Projects**
 
-### 🛍️ [Shopfinity](https://shopfinity-nine.vercel.app/)  
-A **scalable e-commerce platform** designed for a seamless shopping experience.  
-**Tech Stack:** React, Redux, TailwindCSS  
-
-**Key Contributions:**  
-- 🛒 Implemented **real-time cart updates** for enhanced responsiveness.  
-- 🎨 Developed a **fully responsive design**, ensuring usability across all devices.  
-- 🚀 Designed a **scalable backend architecture** to support growing traffic demands.
-
----
-
 ### 🏠 [EstateExplorer](https://real-estate-mern-stack.vercel.app/)  
 A **robust real estate management platform** enabling smooth property trading and management.  
 **Tech Stack:** React, Node.js, MongoDB  
@@ -63,11 +52,33 @@ A **robust real estate management platform** enabling smooth property trading an
 - 📌 Created a **comprehensive property filtering system** for user-friendly navigation.  
 - 🏢 Built an **intuitive interface** focused on enhancing user engagement.  
 - 🔐 Integrated **secure user authentication** and admin functionalities.
+- 
+---
+
+### 🛍️ [Shopfinity](https://shopfinity-nine.vercel.app/)  
+A **scalable e-commerce platform** designed for a seamless shopping experience.  
+**Tech Stack:** React, Redux, TailwindCSS  
+
+**Key Contributions:**  
+- 🛒 Implemented **real-time cart updates** for enhanced responsiveness.  
+- 🎨 Developed a **fully responsive design**, ensuring usability across all devices.  
+- 🚀 Designed a **scalable backend architecture** to support growing traffic demands.
+  
+---
+
+### 🎨 [GradientStudio](https://gradient-studio.vercel.app/)  
+A **modern gradient exploration platform** for previewing and applying stunning gradient combinations.  
+**Tech Stack:** React, Vite, TailwindCSS  
+
+**Key Contributions:**  
+- 🌈 Implemented **real-time gradient previews** for instant feedback.  
+- 📋 Added **copy-to-clipboard functionality** for seamless integration into projects.  
+- 📱 Designed a **fully responsive UI** optimized for all device types.
 
 ---
 
 ### 🛠 [Event Management Platform](https://github.com/ShaiBatonya/patents_server-client)  
-A **full-stack event management solution** simplifying the creation and organization of events.  
+A **full-stack event management solution** simplifies the creation and organization of events.  
 **Tech Stack:** React, Node.js, MongoDB  
 
 **Key Contributions:**  
