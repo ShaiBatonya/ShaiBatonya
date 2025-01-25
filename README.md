@@ -9,7 +9,7 @@
   Building Educational Apps That Enhance Learning Through Gamification  
 </p>
 
-<p style="font-size: 22px;"> 
+<p style="font-size: 22px;">  
   Passionate about <strong>clean code</strong>, <strong>scalable architecture</strong>, and driving <strong>meaningful user experiences</strong>.
 </p>
 
