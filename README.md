@@ -6,11 +6,13 @@
 # Full Stack Developer  
 
 <p style="font-size: 26px; margin-top: 10px; font-weight: bold;">
-  Building Educational Apps That Enhance Learning Through Gamification      
+  Building Educational Apps That Enhance Learning Through Gamification
 </p>
 
 <p style="font-size: 22px;">  
+  
   Passionate about <strong>clean code</strong>, <strong>scalable architecture</strong>, and driving <strong>meaningful user experiences</strong>.
+  
 </p>
 
 </div>
