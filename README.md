@@ -6,7 +6,7 @@
 
 
 
-# Full Stack Developer       
+# Full Stack Developer           
 
 
 <p style="font-size: 26px; margin-top: 10px; font-weight: bold;">    
