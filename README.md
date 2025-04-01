@@ -8,7 +8,7 @@
 # Full Stack Developer           
 
 
-<p style="font-size: 26px; margin-top: 10px; font-weight: bold;">    
+<p style="font-size: 29px; margin-top: 15px; font-weight: bold;">    
 
 
   
