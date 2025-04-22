@@ -5,13 +5,11 @@
 # 👋 Hi, I'm **Shai Gabriel Batonya**    
 
 
-# Full Stack Developer           
+# Full Stack Developer     
 
 
-<p style="font-size: 29px; margin-top: 15px; font-weight: bold;">    
+<p style="font-size: 29px; margin-top: 19px; font-weight: bold;">    
 
-
-  
   Building Educational Apps That Enhance Learning Through Gamification   
 </p>
 
