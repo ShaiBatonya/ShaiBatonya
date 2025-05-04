@@ -8,7 +8,7 @@
 # Full Stack Developer     
 
 
-<p style="font-size: 29px; margin-top: 22px; font-weight: bold;">    
+<p style="font-size: 29px; margin-top: 44px; font-weight: bold;">    
 
   Building Educational Apps That Enhance Learning Through Gamification   
 </p>
