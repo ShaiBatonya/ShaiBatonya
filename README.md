@@ -1,144 +1,113 @@
 ![Header Image](https://camo.githubusercontent.com/3cbeb5d020370a717e4b859e2b9bab4c53d57b133164468958639d913703fa5c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d374139324238266865696768743d3130302673656374696f6e3d686561646572)
 
-<div align="center">  
+<div align="center">
 
+# 👋 Hey there, I'm Shai Gabriel Batonya  
 
+### Full Stack Developer | React & TypeScript Enthusiast | Builder of Real-World Platforms
 
-
-# 👋 Hi, I'm **Shai Gabriel Batonya**    
-
-
-
-
-
-# Full Stack Developer     
-
-
-<p style="font-size: 29px; margin-top: 44px; font-weight: bold;">    
-
-  Building Educational Apps That Enhance Learning Through Gamification   
-</p>     
-
-
-
-
-
-<p style="font-size: 28px;">  
-  
-  Passionate about <strong>clean code</strong>, <strong>scalable architecture</strong>, and driving <strong>meaningful user experiences</strong>.
-  
+<p style="font-size: 20px; font-weight: bold;">
+Crafting impactful products with clean architecture, a performance-first mindset, and a strong eye for UX.
 </p>
 
 </div>
 
 ---
 
-## 🛠 **My Tech Stack**  
+## 🚀 Featured Project – [AgentCraft](https://agentcraft-client-1.onrender.com/)
 
-### **Frontend Development**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,html,css,js,redux,materialui,vite,figma" />
-  </a>
-</p>
+A **production-grade AI Chat Platform** that mimics ChatGPT capabilities with a modular, scalable architecture and end-to-end functionality.
 
-### **Backend Development**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,mysql,redis,postman,npm" />
-  </a>
-</p>
+**💡 Key Highlights:**
+- Google OAuth2 + JWT authentication (HttpOnly)
+- Persistent chat threads with real-time sync
+- Modular monorepo structure with clean architecture
+- Zustand, Vite, TailwindCSS, Express & MongoDB
 
-### **Cloud & DevOps**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel,githubactions,git" />
-  </a>
-</p>
+👉 [Full GitHub Repo](https://github.com/ShaiBatonya/AgentCraft)
 
 ---
 
-## 🏆 **Featured Projects**
+## 🏗️ Selected Projects
 
 ### 🏠 [EstateExplorer](https://real-estate-mern-stack.vercel.app/)  
-A **robust real estate management platform** enabling smooth property trading and management.  
-**Tech Stack:** React, Node.js, MongoDB  
+**Real estate trading system** with full property CRUD, admin dashboards, and scalable filters.
 
-**Key Contributions:**  
-- 📌 Created a **comprehensive property filtering system** for user-friendly navigation.  
-- 🏢 Built an **intuitive interface** focused on enhancing user engagement.  
-- 🔐 Integrated **secure user authentication** and admin functionalities.
-  
+- 🧩 Advanced search and filtering logic
+- 🔐 Authentication & admin control panel
+- 🌐 Deployed on Vercel (MERN stack)
+
 ---
 
 ### 🛍️ [Shopfinity](https://shopfinity-nine.vercel.app/)  
-A **scalable e-commerce platform** designed for a seamless shopping experience.  
-**Tech Stack:** React, Redux, TailwindCSS  
+Modern e-commerce experience focused on **scalability**, **design**, and **UX**.
 
-**Key Contributions:**  
-- 🛒 Implemented **real-time cart updates** for enhanced responsiveness.  
-- 🎨 Developed a **fully responsive design**, ensuring usability across all devices.  
-- 🚀 Designed a **scalable backend architecture** to support growing traffic demands.
-  
+- 🛒 Real-time cart experience
+- 🖥️ Mobile-first responsive design
+- 🚀 Modular backend for traffic scaling
+
 ---
 
 ### 🎨 [GradientStudio](https://gradient-studio.vercel.app/)  
-A **modern gradient exploration platform** for previewing and applying stunning gradient combinations.  
-**Tech Stack:** React, Vite, TailwindCSS  
+Interactive playground to **explore, preview, and copy** gradients with UX best practices.
 
-**Key Contributions:**  
-- 🌈 Implemented **real-time gradient previews** for instant feedback.  
-- 📋 Added **copy-to-clipboard functionality** for seamless integration into projects.  
-- 📱 Designed a **fully responsive UI** optimized for all device types.
+- 🌈 Live gradient preview
+- 🧠 Copy-to-clipboard functionality
+- 📱 Mobile optimized
 
 ---
 
-### 🛠 [Event Management Platform](https://github.com/ShaiBatonya/patents_server-client)  
-A **full-stack event management solution** simplifies the creation and organization of events.  
-**Tech Stack:** React, Node.js, MongoDB  
+### 🗓️ [Event Manager](https://github.com/ShaiBatonya/patents_server-client)  
+Platform to create, edit, and manage events with robust RESTful architecture.
 
-**Key Contributions:**  
-- 📅 Developed **end-to-end event lifecycle management**, including creation, editing, and deletion.  
-- 🔍 Designed **advanced search and filtering capabilities** for streamlined event discovery.  
-- 🔗 Built a **RESTful API** for seamless integration and real-time data updates.
+- 🔍 Search + filtering features
+- 🛠️ End-to-end event lifecycle
+- 🔗 REST API integration
 
 ---
 
-## 🌟 **Why These Projects Stand Out**
-Each project represents my commitment to creating **scalable, user-centered solutions** that address real-world challenges. My approach combines deep technical expertise with an emphasis on usability and performance.
+## 💼 Tech Stack
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,vite,redux,figma" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,prisma" />
+
+### DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,githubactions,git,aws" />
 
 ---
 
-## 📈 **GitHub Stats**  
+## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaiBatonya&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 🌐 **Let's Connect!**  
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaibatonya-fullstack/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaiBatonya&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/shaibatonya-fullstack">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ShaiBatonya">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🎯 **What Drives Me**  
-For me, coding is more than writing functional code—it's about **creating tools that make a difference**.  
-I thrive on challenges that push my creativity, demand problem-solving, and result in solutions that empower users.  
+## 🔎 About Me
+
+I’m a developer who’s not just about code – but about **product thinking**, **problem-solving**, and creating tools that bring real value.
 
 ---
 
-## 🌟 **Quote to Live By**  
+## 💬 Quote I Live By
 
 <div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Quote">
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" />
 </div>
