@@ -58,8 +58,6 @@ A **production-grade AI Chat Platform** that mimics ChatGPT capabilities with a 
 - Modular monorepo structure with clean architecture
 - Zustand, Vite, TailwindCSS, Express & MongoDB
 
-👉 [Full GitHub Repo](https://github.com/ShaiBatonya/AgentCraft)
-
 ---
 
 ## 🏗️ Selected Projects
