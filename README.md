@@ -14,6 +14,40 @@ Crafting impactful products with clean architecture, a performance-first mindset
 
 ---
 
+## 💼 Tech Stack
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,vite,redux,figma" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,prisma" />
+
+### DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,githubactions,git,aws" />
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaiBatonya&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/shaibatonya-fullstack">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ShaiBatonya">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🚀 Featured Project – [AgentCraft](https://agentcraft-client-1.onrender.com/)
 
 A **production-grade AI Chat Platform** that mimics ChatGPT capabilities with a modular, scalable architecture and end-to-end functionality.
@@ -63,40 +97,6 @@ Platform to create, edit, and manage events with robust RESTful architecture.
 - 🔍 Search + filtering features
 - 🛠️ End-to-end event lifecycle
 - 🔗 REST API integration
-
----
-
-## 💼 Tech Stack
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,vite,redux,figma" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,prisma" />
-
-### DevOps
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,githubactions,git,aws" />
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaiBatonya&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/shaibatonya-fullstack">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ShaiBatonya">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
