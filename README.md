@@ -4,10 +4,10 @@
 
 # 👋 Hey there, I'm Shai Gabriel Batonya  
 
-### Full Stack Developer | React & TypeScript Enthusiast | Builder of Real-World Platforms
+### Full-Stack Engineer · React & TypeScript · Node.js · Cloud & DevOps
 
 <p style="font-size: 20px; font-weight: bold;">
-Crafting impactful products with clean architecture, a performance-first mindset, and a strong eye for UX.
+I build production-grade platforms with clean architecture, security by default, and polished, accessible UI/UX.
 </p>
 
 </div>
@@ -24,6 +24,16 @@ Crafting impactful products with clean architecture, a performance-first mindset
 
 ### DevOps
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,githubactions,git,aws" />
+
+---
+
+## 🧠 What I Do Best
+
+- **Frontend at scale** — React 18 + TS, feature-based architecture, TanStack Query, Zustand/Redux, route-level code splitting, Suspense & memoization, design tokens, Radix accessibility.
+- **Backend you can trust** — Node/Express (TypeScript), layered MVC (controllers/services/models), Zod schemas, predictable error handling, structured logging.
+- **Security by default** — Helmet/CSP, CSRF, rate limiting, sanitization (HPP/NoSQL), JWT + sessions with HttpOnly cookies, per-environment CORS.
+- **Cloud & DevOps** — Docker multi-stage, health checks, env validation, CI/CD on GitHub Actions, zero-downtime rollouts on Vercel/Render/AWS.
+- **UI/UX craft** — mobile-first systems, semantic HTML, keyboard navigation, focus management, micro-interactions with intent (not noise).
 
 ---
 
@@ -48,59 +58,82 @@ Crafting impactful products with clean architecture, a performance-first mindset
 
 ---
 
-## 🚀 Featured Project – [AgentCraft](https://agentcraft-client-1.onrender.com/)
+## 🚀 Featured Project – <a href="https://agentcraft-client-1.onrender.com/">AgentCraft</a>
 
-A **production-grade AI Chat Platform** that mimics ChatGPT capabilities with a modular, scalable architecture and end-to-end functionality.
+A **production-grade AI chat platform** delivering a ChatGPT-like experience with real-world auth, resilient architecture, and mobile-first UX.
 
-**💡 Key Highlights:**
-- Google OAuth2 + JWT authentication (HttpOnly)
-- Persistent chat threads with real-time sync
-- Modular monorepo structure with clean architecture
-- Zustand, Vite, TailwindCSS, Express & MongoDB
+**💡 Highlights**
+- Google OAuth2 + JWT (HttpOnly) with session support  
+- Persistent thread management & robust error boundaries  
+- Modular monorepo, feature-based code organization  
+- **UX focus**: responsive layouts, micro-interactions, accessible primitives  
+- **Stack**: React + TS · Zustand · Vite · Tailwind · Node/Express · MongoDB · Docker
 
 ---
 
 ## 🏗️ Selected Projects
 
-### 🏠 [EstateExplorer](https://real-estate-mern-stack.vercel.app/)  
-**Real estate trading system** with full property CRUD, admin dashboards, and scalable filters.
+### 🛰️ StarQuest — Gamified Learning Platform
+Quests, reports, leaderboards, and mentor reviews across a secure, typed stack.
 
-- 🧩 Advanced search and filtering logic
-- 🔐 Authentication & admin control panel
-- 🌐 Deployed on Vercel (MERN stack)
-
----
-
-### 🛍️ [Shopfinity](https://shopfinity-nine.vercel.app/)  
-Modern e-commerce experience focused on **scalability**, **design**, and **UX**.
-
-- 🛒 Real-time cart experience
-- 🖥️ Mobile-first responsive design
-- 🚀 Modular backend for traffic scaling
+- **Frontend**: React + TS, TanStack Query, Zustand, Radix, Zod, Vite  
+- **Backend**: Node/Express (TS), Zod, Helmet/CSP, CSRF, rate-limit, Winston, Docker  
+- **UX**: mobile-first, keyboard navigation, strong focus management  
+- **Ops**: env validation, health endpoints, structured JSON logs  
+- **Live**: https://starquest.app
 
 ---
 
-### 🎨 [GradientStudio](https://gradient-studio.vercel.app/)  
-Interactive playground to **explore, preview, and copy** gradients with UX best practices.
+### 🏠 <a href="https://real-estate-mern-stack.vercel.app/">EstateExplorer</a>  
+**Real-estate system** with full property CRUD, admin dashboards, and scalable filters.
 
-- 🌈 Live gradient preview
-- 🧠 Copy-to-clipboard functionality
-- 📱 Mobile optimized
+- Advanced search & filtering logic  
+- Auth & role-based access  
+- Deployed on Vercel (MERN)
 
 ---
 
-### 🗓️ [Event Manager](https://github.com/ShaiBatonya/patents_server-client)  
-Platform to create, edit, and manage events with robust RESTful architecture.
+### 🛍️ <a href="https://shopfinity-nine.vercel.app/">Shopfinity</a>  
+Modern e-commerce focused on **scalability**, **design**, and **performance UX**.
 
-- 🔍 Search + filtering features
-- 🛠️ End-to-end event lifecycle
-- 🔗 REST API integration
+- Real-time cart experience  
+- Mobile-first flows, minimal CLS  
+- Modular backend ready for traffic surges
+
+---
+
+### 🎨 <a href="https://gradient-studio.vercel.app/">GradientStudio</a>  
+Interactive playground to **explore, preview, and copy** gradients with a11y in mind.
+
+- Live preview & keyboardable controls  
+- Copy-to-clipboard flows  
+- Fast, responsive UI
+
+---
+
+### 🗓️ <a href="https://github.com/ShaiBatonya/patents_server-client">Event Manager</a>  
+Create, edit, and manage events with a robust REST architecture.
+
+- Search & filtering  
+- End-to-end event lifecycle  
+- Clean REST integration
+
+---
+
+## 🎯 Principles I follow
+
+- **Architecture first** — clear boundaries (UI ↔ hooks ↔ services ↔ API; controllers ↔ services ↔ models)  
+- **Strict typing** — shared interfaces & DTOs, Zod-driven schemas end-to-end  
+- **Observability** — Winston structured logs, health probes; ready for Sentry/Datadog  
+- **Performance** — route-level code splitting, memoization, prefetching, minimal bundles  
+- **Accessibility** — semantic HTML, focus rings, keyboard navigation, screen-reader support
 
 ---
 
 ## 🔎 About Me
 
-I’m a developer who’s not just about code – but about **product thinking**, **problem-solving**, and creating tools that bring real value.
+I care about shipping real products: thoughtful architecture, measurable outcomes, and experiences that feel fast and intuitive.  
+I write code teams can read, extend, and deploy with confidence.
 
 ---
 
